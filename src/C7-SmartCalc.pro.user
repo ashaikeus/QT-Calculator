@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 7.0.0, 2023-06-27T19:03:18. -->
+<!-- Written by QtCreator 7.0.0, 2023-06-29T14:42:45. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -237,13 +237,9 @@
     <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
-    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes">
-     <value type="QString">DYLD_LIBRARY_PATH</value>
-     <value type="QString">DYLD_FRAMEWORK_PATH</value>
-    </valuelist>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">C7-SmartCalc2</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/Users/kylebrea/C7_SmartCalc_v1.0-1/src/C7-SmartCalc.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/Users/kylebrea/C7_SmartCalc_v1.0-1/src/C7-SmartCalc.pro</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/Users/kylebrea/C7_SmartCalc_v1.0-2/src/C7-SmartCalc.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/Users/kylebrea/C7_SmartCalc_v1.0-2/src/C7-SmartCalc.pro</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
